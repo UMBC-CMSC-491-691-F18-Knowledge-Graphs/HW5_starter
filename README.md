@@ -1,6 +1,6 @@
 # Homework Five: Writing SPARQL Queries
 
-out Wednesday 2017-11-13, due Monday 2016-11-25
+### out Monday 2018-11-19, due Wednesday 2018-11-28
 
 This homework will give you some experience in using the RDF query language SPARQL to access the stereotypical linked open data collection, DBpedia.
 
@@ -10,5 +10,5 @@ This repository has a stub for each of the queries you have to write with a name
 
 A standard public sparql endpoint for DBpedia is http://live.dbpedia.org/sparql which is a public service offered by Open Link Software. Their triple store technology is very good, has both a commercial and open source versions and supports most (but not all) of the SPARQL 1.1 standard. We recommend using this rather than http://dbpedia.org/sparql since it has more data and it more up-to-date.
 
-When you are done, you can rerun all of your queries with a command like python sparql.py q*.txt. Add the *.html and *.txt files to your repository, then commit all of the *.txt, *.txt.json and *.txt.html files and push them back to the master on github.
+When you are done, you can rerun all of your queries with a command like python sparql.py q*.txt. Be sure to commit your final inpout and output (*.txt, *.txt.html and *.txt.json files) to your repository files and push them back to the master on github.
 
